@@ -67,12 +67,12 @@ const BasicGrid22 = () => {
                         fontWeight: 'bold',
                         textAlign: 'center'
                     }}>
-                        " {loading ? <l-cardio
+                         {loading ? <l-cardio
   size="60"
   stroke="5"
   speed="0.5" 
   color="#4BD495" 
-></l-cardio> : advice} "
+></l-cardio> : advice} 
                     </Typography>
 
                     <br />
